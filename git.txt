@@ -1,0 +1,5 @@
+Lista de temas que hemos visto:
+
+  1. Sistemas operativos
+  2. Terminal de comandos
+  3. Git
